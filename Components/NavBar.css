@@ -1,0 +1,29 @@
+*{
+    color: black;
+    margin: 0;
+
+}
+.navbar{
+    display: flex;
+    height: 70px;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 10px;
+}
+.navbar li{
+    display: inline;margin: 5px;
+}
+a{
+    text-decoration: none;
+}
+.n-b-btn{
+    padding: 10px;
+    border-radius: 10px;
+    color: black;
+}
+.n-b-btn:hover{
+    background-color: grey;
+}
+.tw{
+    color: white;
+}

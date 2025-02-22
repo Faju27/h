@@ -1,0 +1,34 @@
+.Main{
+    background-color: lavender;
+    padding-inline: 10%;
+}
+.Main h1{
+    text-align: center;
+    padding: 75px;
+}
+.Main img{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.Main div{
+    gap: 20px;
+}
+div p{
+    font-size: large;
+}
+.Main .btn{
+    padding: 100px;text-align: center;
+}
+.Main a{
+    padding: 15px 40px;
+    font-size:medium;
+    font: bold;
+    border: 2px solid blue;
+    border-radius: 5px;
+    color: blue;
+    background-color: white
+}
+.Main a:hover{
+    background-color: blue;
+    color: white;
+}

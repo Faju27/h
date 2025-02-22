@@ -1,0 +1,50 @@
+.models-1{
+    text-align: center;
+    margin-top: 80px;
+}
+.models-1 ul{margin: 20px 0px;}
+.models-1 li{
+    display: inline;margin-right: 30px;
+}
+
+.models-2{
+    display: flex;
+    /* background-color: cyan; */
+    gap: 20px;
+    padding: 20px;
+    justify-content: center;
+}
+.models-2 a:hover *{
+    color: blue;
+}
+.models-2 button{
+    position: absolute;
+    top: 20px;left: 10px;
+    font: bold;
+}
+.models-2 img{
+    margin: 10px 0px;
+    height: 200px;
+    width: 300px;
+}
+.models-2 .link{
+    margin: 0px 35px;
+    color: blue;
+    font-size: larger;
+}
+.models-3{
+    text-align: center;
+    margin: 50px 0px;
+}
+.models-3 a{
+    padding: 15px 40px;
+    font-size:medium;
+    font: bold;
+    border: 2px solid blue;
+    border-radius: 5px;
+    color: blue;
+    background-color: white;
+}
+.models-3 a:hover{
+    background-color:lavender
+}

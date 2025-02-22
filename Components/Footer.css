@@ -1,0 +1,30 @@
+.footer{
+    background-color: lavender;
+}
+.footer p{
+    text-align: center;
+    padding: 10px;
+}
+.footer .grid{
+    justify-content: center;
+    margin: 0 1%;
+}
+.footer dt{
+    margin-top: 15px;
+    opacity: 50%;
+    padding: 10px;
+}
+.footer dd{
+    padding: 10px;
+}
+.footer a:hover{
+    text-decoration: underline;
+}
+.icons{
+    font-size: 25px;
+    margin: 25px;
+}
+.footer .p{
+    opacity: 50%;
+    font-size: small;
+}

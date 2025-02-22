@@ -1,0 +1,29 @@
+.l-m-1{
+    background-color:black;
+    align-content: center;
+    text-align:center;
+    height: 30px;
+}
+.l-m-1 a{
+    color: white;
+    text-decoration: none;
+}
+.l-m-2{
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 150px;left: 50%;
+    text-align: center;
+    width:400px;
+    font-size: larger;
+}
+.l-m-btn{
+    padding: 10px 20px;
+    font-size:medium;
+    font: bold;
+    border-radius: 5px;
+    color: black;
+    background-color: white;
+}
+.l-m-btn:hover{
+    background-color: gray;
+}

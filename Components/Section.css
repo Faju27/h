@@ -1,0 +1,80 @@
+.section{
+    display: flex;
+    position: relative;
+    background-color: lavender;
+    margin:10%;
+}
+.section img{
+    width: 100%;
+}
+.section1{
+    width: 50%;
+    align-items: center;
+    margin: 5% 10%;
+}
+.section1 .btn{
+    margin-top: 5%;
+    padding-top: 5px;
+}
+.section1 a{
+    padding: 4% 4%;
+    font-size:medium;
+    font: bold;
+    border: 2px solid blue;
+    border-radius: 5px;
+    color: blue;
+    background-color: white;
+}
+.section1 a:hover{
+    background-color: lavender;
+}
+
+.section2{
+    margin: 10%;
+    position: relative;
+}
+.section2 img{
+    width: 100%;
+}
+.section2 div{
+    position: absolute;
+    width:25%;
+    top: 20%;left: 10%;
+}
+.section2 h1{
+    margin-bottom: 10%;
+    color: white;
+}
+.section2 a{
+    padding: 4% 8%;
+    border-radius: 5px;
+    color: black;
+    background-color: white;
+}
+.section2 a:hover{
+    background-color: grey;
+}
+.section3 p{
+    text-align: center;
+    margin-bottom: 4%;
+}
+.section3 .div{
+    display: flex;
+    margin: 0 20%;
+}
+.section3 .grid{
+    padding:3% 0;
+    width: 50%;margin:0 1%;
+    display: flex;
+    justify-content: space-between;
+    opacity:50%;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+.section3 .grid:hover{
+    opacity: 100%;
+}
+.section3 .p{
+    margin:5%;
+    font-size: 13px;
+}
